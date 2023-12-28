@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Terraform-Modules Name</title>
+  <title>Terraform-Modules</title>
 </head>
 <body>
   
